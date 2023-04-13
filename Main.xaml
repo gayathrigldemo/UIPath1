@@ -97,7 +97,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="338,234" sap2010:WorkflowViewState.IdRef="NTypeInto_1" Version="V3" />
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="338,234" sap2010:WorkflowViewState.IdRef="NTypeInto_1" Text="jeep" Version="V3" />
           </Sequence>
         </ActivityAction>
       </uix:NApplicationCard.Body>
